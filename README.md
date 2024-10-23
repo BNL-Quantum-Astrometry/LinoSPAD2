@@ -1,1 +1,1 @@
-# This branch exists purely for the sake of automatically syncing this repository with upstream.
+# Analysis code is on the [main](https://github.com/BNL-Quantum-Astrometry/LinoSPAD2/tree/main) and [develop](https://github.com/BNL-Quantum-Astrometry/LinoSPAD2/tree/develop) branches. This branch exists purely for the sake of automatically syncing this repository with upstream.
