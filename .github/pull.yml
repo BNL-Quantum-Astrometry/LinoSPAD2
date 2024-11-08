@@ -1,14 +1,14 @@
 version: "1"
 rules:
   - base: main
-    upstream: rngKomorebi:main
+    upstream: rngKomorebi/daplis:main
     mergeMethod: hardreset
     mergeUnstable: true    
   - base: develop
-    upstream: rngKomorebi:develop       
+    upstream: rngKomorebi/daplis:develop       
     mergeMethod: hardreset
     mergeUnstable: true
   - base: gh-pages
-    upstream: rngKomorebi:gh-pages
+    upstream: rngKomorebi/daplis:gh-pages
     mergeMethod: hardreset
     mergeUnstable: true
